@@ -1,5 +1,5 @@
 -- // Library
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/IntelDevHub/Intel/main/000193.txt"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/juarggernaut/script/main/Cashscript.lua"))()
 -- // Window
 local Window = Library:Window("Florin", "Untitled Fucker", Enum.KeyCode.v)
 
