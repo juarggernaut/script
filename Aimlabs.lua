@@ -84,7 +84,7 @@ L_6_:NewButton(
 
     "Aimlock",
 
-    "Beam niggas down",
+    "So Halal Mode",
 
     function()
 
