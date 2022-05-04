@@ -74,7 +74,7 @@ end
 
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local L_4_ = L_3_.CreateLib("counter.lua", "DarkTheme")
+local L_4_ = L_3_.CreateLib("counter.lua", "Synapse")
 
 local L_5_ = L_4_:NewTab("Aimlock")
 
