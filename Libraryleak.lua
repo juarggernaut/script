@@ -12,9 +12,7 @@ end)
 Tab:Toggle("Toggle Text", function()
 
 end)
-
 -- // Slider
-
 Tab:Slider("Slider Text", 0, 100, 50, function()
 
 end)
