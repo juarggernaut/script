@@ -1,5 +1,5 @@
 
-local Aiming = loadstring(game:HttpGet(""))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/juarggernaut/script/main/silentNlock.lua"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
